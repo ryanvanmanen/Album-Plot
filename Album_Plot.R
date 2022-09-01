@@ -13,10 +13,14 @@ albums <- read.csv(file="/Users/ryanvanmanen/Documents/Github/Album-Plot/Album_D
 #Create variable containing ordered dataframe
 ordered_albums <-albums[order(albums$Released, decreasing = FALSE), ] 
 
-View(ordered_albums)
+#Change Column Names with setNames
+#ordered_albums <-setNames(ordered_albums, c("Number","Album", "Artist","Released","Discovered"))
+  
 
 #Write ordered dataframe to a csv and put it in specified directory location
 write.csv(ordered_albums,file = "/Users/ryanvanmanen/Documents/Github/Album-Plot/ordered_albums.csv")
+
+View(ordered_albums)
 
 #Plot Release Date versus Discovery Date
 #plot.default(ordered_albums$Released,ordered_albums$Discovered)
