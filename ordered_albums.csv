@@ -1,396 +1,147 @@
-"","Album","Artist","Released","Discovered"
-"98","In the Wee Small Hours","Frank Sinatra",1955,2013
-"67","Elvis Presley","Elvis Presley",1956,NA
-"62","Here's Little Richard","Little Richard",1957,NA
-"307","The ""Chirping"" Crickets","The Crickets",1957,NA
-"131","Moanin' in the Moonlight","Howlin' Wolf",1958,NA
-"36","Kind of Blue","Miles Davis",1959,2011
-"100","Giant Steps","John Coltrane",1959,2012
-"186","Two Steps From the Blues","Bobby ""Blue"" Bland",1961,NA
-"102","Modern Sounds in Country and Western Music","Ray Charles",1962,NA
-"207","Howlin' Wolf","Howlin' Wolf",1962,NA
-"4","Please Please Me","The Beatles",1963,2004
-"45","Live at the Apollo, 1962","James Brown",1963,NA
-"94","The Freewheelin' Bob Dylan","Bob Dylan",1963,2019
-"121","A Christmas Gift for You From Phil Spector","Phil Spector",1963,NA
-"309","Presenting the Fabulous Ronettes Featuring Veronica","The Ronettes",1963,NA
-"65","Meet The Beatles!","The Beatles",1964,2022
-"236","Folk Singer","Muddy Waters",1964,NA
-"261","A Hard Day's Night","The Beatles",1964,NA
-"334","Getz / Gilberto","Stan Getz / Joao Gilberto featuring Antonio Carlos Jobim",1964,NA
-"5","Bringing It All Back Home","Bob Dylan",1965,2020
-"28","Highway 61 Revisited","Bob Dylan",1965,2020
-"29","Rubber Soul","The Beatles",1965,NA
-"60","A Love Supreme","John Coltrane",1965,NA
-"80","Otis Blue: Otis Redding Sings Soul","Otis Redding",1965,NA
-"113","Out of Our Heads","The Rolling Stones",1965,NA
-"120","Live at the Regal","B.B. King",1965,NA
-"149","The Rolling Stones, Now!","The Rolling Stones",1965,NA
-"202","Mr. Tambourine Man","The Byrds",1965,NA
-"206","My Generation","The Who",1965,NA
-"230","The Beach Boys Today!","The Beach Boys",1965,NA
-"279","Help!","The Beatles",1965,NA
-"347","The Paul Butterfield Blues Band","The Paul Butterfield Blues Band",1965,NA
-"6","Sounds of Silence","Simon & Garfunkel",1966,2016
-"26","Pet Sounds","The Beach Boys",1966,NA
-"27","Revolver","The Beatles",1966,NA
-"33","Blonde on Blonde","Bob Dylan",1966,NA
-"99","Fresh Cream","Cream",1966,NA
-"106","Aftermath","The Rolling Stones",1966,NA
-"109","If You Can Believe Your Eyes and Ears","The Mamas and the Papas",1966,NA
-"164","Blues Breakers With Eric Clapton (""The Beano Album"")","John Mayall & The Bluesbreakers",1966,NA
-"171","Parsley, Sage, Rosemary and Thyme","Simon & Garfunkel",1966,2015
-"215","Freak Out!","The Mothers of Invention",1966,NA
-"217","Complete & Unbelievable: The Otis Redding Dictionary of Soul","Otis Redding",1966,NA
-"232","Going to a Go-Go","Smokey Robinson & The Miracles",1966,NA
-"7","Magical Mystery Tour","The Beatles",1967,2005
-"25","Sgt. Pepper's Lonely Hearts Club Band","The Beatles",1967,2008
-"37","The Velvet Underground & Nico","The Velvet Underground",1967,NA
-"39","Are You Experienced","The Jimi Hendrix Experience",1967,2010
-"54","Forever Changes","Love",1967,NA
-"56","The Doors","The Doors",1967,NA
-"84","Axis: Bold as Love","The Jimi Hendrix Experience",1967,NA
-"85","I Never Loved a Man the Way I Love You","Aretha Franklin",1967,NA
-"111","Disraeli Gears","Cream",1967,NA
-"112","The Who Sell Out","The Who",1967,NA
-"124","Surrealistic Pillow","Jefferson Airplane",1967,NA
-"157","Buffalo Springfield Again","Buffalo Springfield",1967,NA
-"167","The Best of Little Walter","Little Walter",1967,NA
-"243","Something Else by The Kinks","The Kinks",1967,NA
-"257","John Wesley Harding","Bob Dylan",1967,NA
-"301","Strange Days","The Doors",1967,NA
-"8","Astral Weeks","Van Morrison",1968,2014
-"9","Songs of Leonard Cohen","Leonard Cohen",1968,2015
-"10","Music From Big Pink","The Band",1968,2021
-"34","The Beatles (""The White Album"")","The Beatles",1968,NA
-"66","Electric Ladyland","The Jimi Hendrix Experience",1968,NA
-"69","Beggars Banquet","The Rolling Stones",1968,NA
-"86","Lady Soul","Aretha Franklin",1968,NA
-"89","At Folsom Prison","Johnny Cash",1968,NA
-"97","Odessey and Oracle","The Zombies",1968,NA
-"135","The Dock of the Bay","Otis Redding",1968,NA
-"144","The Notorious Byrd Brothers","The Byrds",1968,NA
-"174","Wheels of Fire","Cream",1968,NA
-"203","Bookends","Simon & Garfunkel",1968,2015
-"221","The Kinks Are The Village Green Preservation Society","The Kinks",1968,NA
-"242","Anthem of the Sun","Grateful Dead",1968,NA
-"247","White Light/White Heat","The Velvet Underground",1968,NA
-"251","We're Only in It for the Money","The Mothers of Invention",1968,NA
-"1","Led Zeppelin I","Led Zeppelin",1969,2006
-"2","Led Zeppelin II","Led Zeppelin",1969,2008
-"11","Nashville Skyline","Bob Dylan",1969,2021
-"12","Aoxomoxoa","Grateful Dead",1969,2015
-"38","Abbey Road","The Beatles",1969,NA
-"48","Let It Bleed","The Rolling Stones",1969,NA
-"58","The Band (""The Brown Album"")","The Band",1969,NA
-"71","Trout Mask Replica","Captain Beefheart & His Magic Band",1969,NA
-"90","Dusty in Memphis","Dusty Springfield",1969,NA
-"127","Santana","Santana",1969,NA
-"154","The Stooges","The Stooges",1969,NA
-"158","Happy Trails","Quicksilver Messenger Service",1969,NA
-"159","From Elvis in Memphis","Elvis Presley",1969,NA
-"161","The Gilded Palace of Sin","The Flying Burrito Brothers",1969,NA
-"179","Everybody Knows This Is Nowhere","Neil Young & Crazy Horse",1969,NA
-"225","Crosby, Stills & Nash","Crosby, Stills & Nash",1969,2014
-"248","Kick Out the Jams","MC5",1969,NA
-"262","Willy and the Poor Boys","Creedence Clearwater Revival",1969,NA
-"268","The Velvet Underground","The Velvet Underground",1969,NA
-"365","Boz Scaggs","Boz Scaggs",1969,NA
-"3","Led Zeppelin III","Led Zeppelin",1970,2008
-"13","Moondance","Van Morrison",1970,2011
-"14","Workingman's Dead","Grateful Dead",1970,2015
-"15","After the Gold Rush","Neil Young",1970,2019
-"43","John Lennon/Plastic Ono Band","John Lennon / Plastic Ono Band",1970,2020
-"63","Bridge Over Troubled Water","Simon & Garfunkel",1970,2016
-"101","Sweet Baby James","James Taylor",1970,2015
-"107","Loaded","The Velvet Underground",1970,NA
-"114","Layla and Other Assorted Love Songs","Derek and the Dominos",1970,NA
-"115","Paranoid","Black Sabbath",1970,NA
-"125","Deja vu","Crosby, Stills, Nash & Young",1970,NA
-"143","Live at Leeds","The Who",1970,NA
-"160","Fun House","The Stooges",1970,NA
-"176","Abraxas","Santana",1970,NA
-"177","Tea for the Tillerman","Cat Stevens",1970,NA
-"189","Look-Ka Py Py","The Meters",1970,NA
-"212","Black Sabbath","Black Sabbath",1970,2010
-"224","American Beauty","Grateful Dead",1970,2014
-"249","Songs of Love and Hate","Leonard Cohen",1970,NA
-"320","All Things Must Pass","George Harrison",1970,NA
-"333","Back in the USA","MC5",1970,NA
-"16","At the Fillmore East","Allman Brothers Band",1971,2018
-"17","Blue","Joni Mitchell",1971,2016
-"18","Who's Next","The Who",1971,2009
-"19","Led Zeppelin IV","Led Zeppelin",1971,2009
-"30","What's Going On","Marvin Gaye",1971,NA
-"51","Tapestry","Carole King",1971,2019
-"73","Sticky Fingers","The Rolling Stones",1971,2009
-"81","Imagine","John Lennon",1971,NA
-"96","There's a Riot Goin' On","Sly & The Family Stone",1971,NA
-"105","Hunky Dory","David Bowie",1971,NA
-"145","Every Picture Tells a Story","Rod Stewart",1971,2020
-"254","Master of Reality","Black Sabbath",1971,NA
-"255","Coat of Many Colors","Dolly Parton",1971,NA
-"285","Aqualung","Jethro Tull",1971,NA
-"293","L.A. Woman","The Doors",1971,NA
-"339","John Prine","John Prine",1971,NA
-"341","Love It to Death","Alice Cooper",1971,NA
-"31","Exile on Main St.","The Rolling Stones",1972,2010
-"50","The Rise and Fall of Ziggy Stardust and the Spiders From Mars","David Bowie",1972,NA
-"83","Harvest","Neil Young",1972,NA
-"91","Talking Book","Stevie Wonder",1972,NA
-"146","Something/Anything?","Todd Rundgren",1972,NA
-"163","Transformer","Lou Reed",1972,NA
-"191","New Orleans Piano","Professor Longhair",1972,NA
-"201","The Kink Kronikles","The Kinks",1972,NA
-"209","Can't Buy a Thrill","Steely Dan",1972,NA
-"227","Paul Simon","Paul Simon",1972,2015
-"239","Music of My Mind","Stevie Wonder",1972,NA
-"240","I'm Still in Love With You","Al Green",1972,NA
-"270","Pink Moon","Nick Drake",1972,NA
-"271","Sail Away","Randy Newman",1972,NA
-"297","Eagles","Eagles",1972,2012
-"321","#1 Record","Big Star",1972,NA
-"331","The World Is a Ghetto","War",1972,NA
-"360","All the Young Dudes","Mott the Hoople",1972,NA
-"364","Give It Up","Bonnie Raitt",1972,NA
-"20","Dark Side of the Moon","Pink Floyd",1973,2011
-"21","Wake of the Flood","Grateful Dead",1973,2015
-"44","Innervisions","Stevie Wonder",1973,NA
-"92","Goodbye Yellow Brick Road","Elton John",1973,2009
-"117","The Wild, the Innocent & the E Street Shuffle","Bruce Springsteen",1973,NA
-"126","Houses of the Holy","Led Zeppelin",1973,2008
-"139","Let's Get It On","Marvin Gaye",1973,NA
-"155","Fresh","Sly & The Family Stone",1973,NA
-"184","New York Dolls","New York Dolls",1973,NA
-"226","Quadrophenia","The Who",1973,NA
-"244","Call Me","Al Green",1973,NA
-"305","Band on the Run","Paul McCartney & Wings",1973,2009
-"319","Here Come the Warm Jets","Brian Eno",1973,NA
-"337","For Everyman","Jackson Browne",1973,NA
-"390","Piano Man","Billy Joel",1973,2009
-"110","Court and Spark","Joni Mitchell",1974,NA
-"119","Rejuvenation","The Meters",1974,NA
-"150","Natty Dread","Bob Marley & The Wailers",1974,NA
-"233","Nightbirds","LaBelle",1974,NA
-"237","Can't Get Enough","Barry White",1974,NA
-"312","Grievous Angel","Gram Parsons",1974,NA
-"350","I Want to See the Bright Lights Tonight","Richard & Linda Thompson",1974,NA
-"22","Blood on the Tracks","Bob Dylan",1975,2016
-"23","Journey","Journey",1975,2010
-"41","Born to Run","Bruce Springsteen",1975,2010
-"57","Horses","Patti Smith",1975,NA
-"64","Greatest Hits","Al Green",1975,NA
-"77","Physical Graffiti","Led Zeppelin",1975,2009
-"134","Captain Fantastic and the Brown Dirt Cowboy","Elton John",1975,NA
-"151","Fleetwood Mac","Fleetwood Mac",1975,2016
-"152","Red Headed Stranger","Willie Nelson",1975,2019
-"180","Wish You Were Here","Pink Floyd",1975,2010
-"198","Toys in the Attic","Aerosmith",1975,NA
-"200","A Night at the Opera","Queen",1975,2011
-"246","The Basement Tapes","Bob Dylan and the Band",1975,NA
-"278","Tonight's the Night","Neil Young",1975,NA
-"316","Another Green World","Brian Eno",1975,NA
-"35","The Sun Sessions","Elvis Presley",1976,NA
-"49","Ramones","Ramones",1976,NA
-"52","Hotel California","Eagles",1976,2009
-"68","Songs in the Key of Life","Stevie Wonder",1976,2012
-"70","Chronicle: The 20 Greatest Hits","Creedence Clearwater Revival",1976,NA
-"147","Desire","Bob Dylan",1976,NA
-"332","Fly Like an Eagle","Steve Miller Band",1976,NA
-"46","Rumours","Fleetwood Mac",1977,2015
-"55","Never Mind the Bollocks Here's the Sex Pistols","Sex Pistols",1977,NA
-"82","The Clash","The Clash",1977,NA
-"103","Rocket to Russia","Ramones",1977,NA
-"116","Saturday Night Fever: The Original Movie Sound Track","Various Artists",1977,2019
-"123","Aja","Steely Dan",1977,2014
-"141","My Aim Is True","Elvis Costello",1977,NA
-"142","Exodus","Bob Marley & The Wailers",1977,NA
-"219","Trans Europa Express","Kraftwerk",1977,NA
-"245","Talking Heads: 77","Talking Heads",1977,NA
-"273","Slowhand","Eric Clapton",1977,NA
-"328","Suicide","Suicide",1977,NA
-"330","In Color","Cheap Trick",1977,NA
-"391","The Stranger","Billy Joel",1977,2010
-"93","20 Golden Greats","Buddy Holly",1978,NA
-"95","This Year's Model","Elvis Costello",1978,NA
-"128","Darkness on the Edge of Town","Bruce Springsteen",1978,NA
-"223","Stardust","Willie Nelson",1978,NA
-"229","Some Girls","The Rolling Stones",1978,NA
-"238","The Cars","The Cars",1978,NA
-"288","52nd Street","Billy Joel",1978,2019
-"303","Van Halen","Van Halen",1978,2009
-"313","Cheap Trick at Budokan","Cheap Trick",1978,NA
-"315","Outlandos d'Amour","The Police",1978,NA
-"329","Q: Are We Not Men? A: We Are Devo!","DEVO",1978,NA
-"336","Third/Sister Lovers","Big Star",1978,NA
-"32","London Calling","The Clash",1979,NA
-"75","Off the Wall","Michael Jackson",1979,2013
-"88","The Wall","Pink Floyd",1979,NA
-"169","Highway to Hell","AC/DC",1979,NA
-"267","Damn the Torpedoes","Tom Petty and the Heartbreakers",1979,NA
-"282","Squeezing Out Sparks","Graham Parker & The Rumour",1979,NA
-"286","Rust Never Sleeps","Neil Young & Crazy Horse",1979,2018
-"289","Singles Going Steady","Buzzcocks",1979,NA
-"325","Boys Don't Cry","The Cure",1979,NA
-"354","Armed Forces","Elvis Costello & The Attractions",1979,NA
-"359","Entertainment!","Gang of Four",1979,NA
-"79","Back in Black","AC/DC",1980,2009
-"132","Pretenders","Pretenders",1980,NA
-"133","Closer","Joy Division",1980,NA
-"175","Dirty Mind","Prince",1980,NA
-"216","The River","Bruce Springsteen",1980,NA
-"241","Los Angeles","X",1980,NA
-"373","One Trick Pony","Paul Simon",1980,2015
-"389","Making Movies","Dire Straits",1980,2015
-"182","Tattoo You","The Rolling Stones",1981,NA
-"272","Ghost in the Machine","The Police",1981,NA
-"281","Wild Gift","X",1981,NA
-"302","Beauty and the Beat","The Go Go's",1981,NA
-"387","Business As Usual","Men At Work",1981,2021
-"42","Thriller","Michael Jackson",1982,NA
-"137","1999","Prince",1982,NA
-"195","Nebraska","Bruce Springsteen",1982,NA
-"280","Shoot Out the Lights","Richard & Linda Thompson",1982,NA
-"166","Murmur","R.E.M.",1983,NA
-"192","War","U2",1983,NA
-"335","Synchronicity","The Police",1983,NA
-"59","Legend: The Best of Bob Marley and The Wailers","Bob Marley & The Wailers",1984,NA
-"78","Purple Rain","Prince and the Revolution",1984,NA
-"87","Born in the U.S.A.","Bruce Springsteen",1984,NA
-"210","Let It Be","The Replacements",1984,NA
-"211","Run D.M.C.","Run D.M.C.",1984,NA
-"342","How Will the Wolf Survive?","Los Lobos",1984,NA
-"352","The Smiths","The Smiths",1984,NA
-"220","Whitney Houston","Whitney Houston",1985,NA
-"228","Psychocandy","The Jesus and Mary Chain",1985,NA
-"250","Meat Is Murder","The Smiths",1985,NA
-"287","Brothers in Arms","Dire Straits",1985,2021
-"326","Live at the Harlem Square Club, 1963","Sam Cooke",1985,NA
-"327","Rum Sodomy & the Lash","The Pogues",1985,NA
-"349","Radio","L.L. Cool J",1985,NA
-"388","Behind the Sun","Eric Clapton",1985,2013
-"76","Graceland","Paul Simon",1986,2015
-"140","Master of Puppets","Metallica",1986,NA
-"156","So","Peter Gabriel",1986,NA
-"185","Bo Diddley / Go Bo Diddley","Bo Diddley",1986,NA
-"187","The Queen Is Dead","The Smiths",1986,NA
-"188","Licensed to Ill","Beastie Boys",1986,NA
-"277","In the Jungle Groove","James Brown",1986,NA
-"358","Guitar Town","Steve Earle",1986,NA
-"24","Appetite For Destruction","Guns N' Roses",1987,2009
-"47","The Joshua Tree","U2",1987,NA
-"172","Bad","Michael Jackson",1987,NA
-"197","Paid in Full","Eric B. & Rakim",1987,NA
-"292","Substance 1987","New Order",1987,NA
-"298","Louder Than Bombs","The Smiths",1987,NA
-"340","Strictly Business","EPMD",1987,NA
-"343","Hysteria","Def Leppard",1987,2010
-"346","Tunnel of Love","Bruce Springsteen",1987,NA
-"351","Faith","George Michael",1987,NA
-"61","It Takes a Nation of Millions to Hold Us Back","Public Enemy",1988,NA
-"122","Straight Outta Compton","N.W.A",1988,NA
-"276","Daydream Nation","Sonic Youth",1988,NA
-"196","Doolittle","Pixies",1989,NA
-"199","Nick of Time","Bonnie Raitt",1989,NA
-"208","Like a Prayer","Madonna",1989,NA
-"274","Disintegration","The Cure",1989,NA
-"153","The Immaculate Collection","Madonna",1990,NA
-"256","Fear of a Black Planet","Public Enemy",1990,NA
-"308","The Best of the Girl Groups, Volume 1","Various Artists",1990,NA
-"40","Nevermind","Nirvana",1991,2011
-"72","Achtung Baby","U2",1991,NA
-"130","The Low End Theory","A Tribe Called Quest",1991,2012
-"178","Ten","Pearl Jam",1991,2021
-"183","Proud Mary: The Best of Ike and Tina Turner","Ike & Tina Turner",1991,NA
-"190","Loveless","My Bloody Valentine",1991,NA
-"218","Metallica (""The Black Album"")","Metallica",1991,NA
-"263","Blood Sugar Sex Magik","Red Hot Chili Peppers",1991,2011
-"205","Mr. Excitement!","Jackie Wilson",1992,NA
-"294","Rage Against the Machine","Rage Against the Machine",1992,NA
-"214","All Killer No Filler! The Jerry Lee Lewis Anthology","Jerry Lee Lewis",1993,NA
-"275","Exile in Guyville","Liz Phair",1993,NA
-"291","Siamese Dream","The Smashing Pumpkins",1993,NA
-"322","In Utero","Nirvana",1993,NA
-"395","Vs.","Pearl Jam",1993,2022
-"118","Ready to Die","The Notorious B.I.G.",1994,NA
-"162","Dookie","Green Day",1994,NA
-"170","The Downward Spiral","Nine Inch Nails",1994,NA
-"181","Crooked Rain Crooked Rain","Pavement",1994,NA
-"253","Weezer (Blue Album)","Weezer",1994,NA
-"258","Grace","Jeff Buckley",1994,2011
-"264","The Sun Records Collection","Various",1994,NA
-"265","MTV Unplugged in New York","Nirvana",1994,2011
-"283","Superunknown","Soundgarden",1994,NA
-"295","American Recordings","Johnny Cash",1994,NA
-"300","Illmatic","Nas",1994,2013
-"306","Dummy","Portishead",1994,NA
-"361","Vitalogy","Pearl Jam",1994,2021
-"372","Under the Table and Dreaming","Dave Matthews Band",1994,2012
-"108","The Bends","Radiohead",1995,2014
-"386","Bing, Bing, Bing!","Charlie Hunter Trio",1995,2012
-"260","Odelay","Beck",1996,NA
-"348","The Score","Fugees",1996,NA
-"356","Down Every Road","Merle Haggard",1996,NA
-"370","Crash","Dave Matthews Band",1996,2012
-"374","Tales From the Hudson","Michael Brecker",1996,2014
-"136","OK Computer","Radiohead",1997,2014
-"222","The Velvet Rope","Janet",1997,NA
-"231","Dig Me Out","Sleater Kinney",1997,NA
-"355","Life After Death","The Notorious B.I.G.",1997,2014
-"385","Whatever and Ever Amen","Ben Folds Five",1997,2014
-"165","Nuggets: Original Artyfacts From the First Psychedelic Era, 1965-1968","Various Artists",1998,NA
-"259","Car Wheels on a Gravel Road","Lucinda Williams",1998,NA
-"266","The Miseducation of Lauryn Hill","Lauryn Hill",1998,2016
-"296","Ray of Light","Madonna",1998,NA
-"371","Before These Crowded Streets","Dave Matthews Band",1998,2012
-"193","The Neil Diamond Collection","Neil Diamond",1999,NA
-"234","The Slim Shady LP","Eminem",1999,2014
-"299","Californication","Red Hot Chili Peppers",1999,2009
-"304","Mule Variations","Tom Waits",1999,NA
-"344","69 Love Songs","The Magnetic Fields",1999,NA
-"368","Summerteeth","Wilco",1999,2015
-"74","Kid A","Radiohead",2000,2014
-"204","The Ultimate Collection","Patsy Cline",2000,NA
-"213","The Marshall Mathers LP","Eminem",2000,NA
-"235","All That You Can't Leave Behind","U2",2000,NA
-"290","Stankonia","OutKast",2000,NA
-"318","Stories From the City, Stories From the Sea","PJ Harvey",2000,NA
-"357","Voodoo","D'Angelo",2000,2016
-"375","Outbound","Bela Fleck and the Flecktones",2000,2014
-"384","The Marshall Mathers LP","Eminem",2000,2014
-"53","The Anthology","Muddy Waters",2001,NA
-"148","The Definitive Collection","ABBA",2001,NA
-"168","Is This It","The Strokes",2001,NA
-"269","Amnesiac","Radiohead",2001,NA
-"310","Anthology","Diana Ross & The Supremes",2001,NA
-"353","Proxima estacion: Esperanza","Manu Chao",2001,NA
-"366","White Blood Cells","The White Stripes",2001,NA
-"138","The Very Best of Linda Ronstadt","Linda Ronstadt",2002,NA
-"311","The Rising","Bruce Springsteen",2002,NA
-"314","Sleepless","Peter Wolf",2002,NA
-"323","Sea Change","Beck",2002,2015
-"345","A Rush of Blood to the Head","Coldplay",2002,NA
-"362","Yankee Hotel Foxtrot","Wilco",2002,2020
-"104","Portrait of a Legend 1951-1964","Sam Cooke",2003,NA
-"252","The College Dropout","Kanye West",2003,NA
-"129","Funeral","Arcade Fire",2004,2016
-"194","American Idiot","Green Day",2004,NA
-"393","One Quiet Night","Pat Metheny",2004,2014
-"376","Everything in Transit","Jack's Mannequin",2005,2015
-"173","Modern Times","Bob Dylan",2006,NA
-"338","Back to Black","Amy Winehouse",2006,NA
-"284","In Rainbows","Radiohead",2007,2015
-"317","Vampire Weekend","Vampire Weekend",2007,NA
-"363","Oracular Spectacular","MGMT",2007,NA
-"369","For Emma, Forever Ago","Bon Iver",2007,2015
-"377","Sky Blue Sky","Wilco",2007,2021
-"324","Tha Carter III","Lil Wayne",2008,NA
-"394","Speak Now","Taylor Swift",2010,2011
-"367","Away From the World","Dave Matthews Band",2012,2012
-"378","Random Access Memory","Daft Punk",2013,2019
-"383","Paradise Valley","John Mayer",2013,2013
-"381","Hozier","Hozier",2014,2016
-"392","Kin","Pat Metheny Unity Group",2014,2014
-"379","Lemonade","Beyonce",2016,2017
-"380","After Laughter","Paramore",2017,2018
-"382","The Search For Everything","John Mayer",2017,2017
+,Album,Artist,Released,Discovered
+87,In the Wee Small Hours,Frank Sinatra,1955,2013
+35,Kind of Blue,Miles Davis,1959,2011
+89,Giant Steps,John Coltrane,1959,2012
+4,Please Please Me,The Beatles,1963,2004
+83,The Freewheelin' Bob Dylan,Bob Dylan,1963,2019
+54,Meet The Beatles!,The Beatles,1964,2022
+228,A Hard Day's Night,The Beatles,1964,2007
+5,Bringing It All Back Home,Bob Dylan,1965,2020
+28,Highway 61 Revisited,Bob Dylan,1965,2020
+29,Rubber Soul,The Beatles,1965,2006
+51,A Love Supreme,John Coltrane,1965,2012
+239,Help!,The Beatles,1965,2008
+6,Sounds of Silence,Simon & Garfunkel,1966,2016
+26,Pet Sounds,The Beach Boys,1966,2014
+27,Revolver,The Beatles,1966,2007
+157,"Parsley, Sage, Rosemary and Thyme",Simon & Garfunkel,1966,2015
+7,Magical Mystery Tour,The Beatles,1967,2005
+25,Sgt. Pepper's Lonely Hearts Club Band,The Beatles,1967,2006
+38,Are You Experienced,The Jimi Hendrix Experience,1967,2010
+8,Astral Weeks,Van Morrison,1968,2014
+9,Songs of Leonard Cohen,Leonard Cohen,1968,2015
+10,Music From Big Pink,The Band,1968,2021
+34,"The Beatles (""The White Album"")",The Beatles,1968,2007
+186,Bookends,Simon & Garfunkel,1968,2015
+1,Led Zeppelin I,Led Zeppelin,1969,2006
+2,Led Zeppelin II,Led Zeppelin,1969,2008
+11,Nashville Skyline,Bob Dylan,1969,2021
+12,Aoxomoxoa,Grateful Dead,1969,2015
+37,Abbey Road,The Beatles,1969,2009
+45,Let It Bleed,The Rolling Stones,1969,2010
+49,"The Band (""The Brown Album"")",The Band,1969,2020
+205,"Crosby, Stills & Nash","Crosby, Stills & Nash",1969,2014
+3,Led Zeppelin III,Led Zeppelin,1970,2008
+13,Moondance,Van Morrison,1970,2011
+14,Workingman's Dead,Grateful Dead,1970,2015
+15,After the Gold Rush,Neil Young,1970,2019
+42,John Lennon/Plastic Ono Band,John Lennon / Plastic Ono Band,1970,2020
+52,Bridge Over Troubled Water,Simon & Garfunkel,1970,2016
+90,Sweet Baby James,James Taylor,1970,2015
+175,Look-Ka Py Py,The Meters,1970,2012
+192,Black Sabbath,Black Sabbath,1970,2010
+204,American Beauty,Grateful Dead,1970,2014
+354,Cold Fact,Rodriguez,1970,2022
+16,At the Fillmore East,Allman Brothers Band,1971,2018
+17,Blue,Joni Mitchell,1971,2016
+18,Who's Next,The Who,1971,2009
+19,Led Zeppelin IV,Led Zeppelin,1971,2009
+30,What's Going On,Marvin Gaye,1971,2015
+47,Tapestry,Carole King,1971,2019
+62,Sticky Fingers,The Rolling Stones,1971,2009
+131,Every Picture Tells a Story,Rod Stewart,1971,2020
+31,Exile on Main St.,The Rolling Stones,1972,2010
+46,The Rise and Fall of Ziggy Stardust and the Spiders From Mars,David Bowie,1972,2010
+189,Can't Buy a Thrill,Steely Dan,1972,2015
+207,Paul Simon,Paul Simon,1972,2015
+253,Eagles,Eagles,1972,2012
+20,Dark Side of the Moon,Pink Floyd,1973,2011
+21,Wake of the Flood,Grateful Dead,1973,2015
+81,Goodbye Yellow Brick Road,Elton John,1973,2009
+115,Houses of the Holy,Led Zeppelin,1973,2008
+206,Quadrophenia,The Who,1973,2009
+261,Band on the Run,Paul McCartney & Wings,1973,2009
+342,Piano Man,Billy Joel,1973,2009
+22,Blood on the Tracks,Bob Dylan,1975,2016
+23,Journey,Journey,1975,2010
+40,Born to Run,Bruce Springsteen,1975,2010
+66,Physical Graffiti,Led Zeppelin,1975,2009
+137,Fleetwood Mac,Fleetwood Mac,1975,2016
+138,Red Headed Stranger,Willie Nelson,1975,2019
+166,Wish You Were Here,Pink Floyd,1975,2010
+183,A Night at the Opera,Queen,1975,2011
+48,Hotel California,Eagles,1976,2009
+57,Songs in the Key of Life,Stevie Wonder,1976,2012
+43,Rumours,Fleetwood Mac,1977,2015
+105,Saturday Night Fever: The Original Movie Sound Track,Various Artists,1977,2019
+112,Aja,Steely Dan,1977,2014
+343,The Stranger,Billy Joel,1977,2010
+244,52nd Street,Billy Joel,1978,2019
+259,Van Halen,Van Halen,1978,2009
+32,London Calling,The Clash,1979,2008
+64,Off the Wall,Michael Jackson,1979,2013
+242,Rust Never Sleeps,Neil Young & Crazy Horse,1979,2018
+68,Back in Black,AC/DC,1980,2009
+325,One Trick Pony,Paul Simon,1980,2015
+341,Making Movies,Dire Straits,1980,2015
+339,Business As Usual,Men At Work,1981,2021
+41,Thriller,Michael Jackson,1982,2012
+243,Brothers in Arms,Dire Straits,1985,2021
+340,Behind the Sun,Eric Clapton,1985,2013
+65,Graceland,Paul Simon,1986,2015
+24,Appetite For Destruction,Guns N' Roses,1987,2009
+44,The Joshua Tree,U2,1987,2011
+299,Hysteria,Def Leppard,1987,2010
+39,Nevermind,Nirvana,1991,2011
+119,The Low End Theory,A Tribe Called Quest,1991,2012
+164,Ten,Pearl Jam,1991,2021
+230,Blood Sugar Sex Magik,Red Hot Chili Peppers,1991,2011
+351,Use Your Illusion,Guns N' Roses,1991,2011
+355,Luck of the Draw,Bonnie Raitt,1991,2022
+347,Vs.,Pearl Jam,1993,2022
+352,Thousand Roads,David Crosby,1993,2009
+225,Grace,Jeff Buckley,1994,2011
+232,MTV Unplugged in New York,Nirvana,1994,2011
+256,Illmatic,Nas,1994,2013
+316,Vitalogy,Pearl Jam,1994,2021
+324,Under the Table and Dreaming,Dave Matthews Band,1994,2012
+97,The Bends,Radiohead,1995,2014
+338,"Bing, Bing, Bing!",Charlie Hunter Trio,1995,2012
+322,Crash,Dave Matthews Band,1996,2012
+326,Tales From the Hudson,Michael Brecker,1996,2014
+123,OK Computer,Radiohead,1997,2014
+311,Life After Death,The Notorious B.I.G.,1997,2014
+337,Whatever and Ever Amen,Ben Folds Five,1997,2014
+233,The Miseducation of Lauryn Hill,Lauryn Hill,1998,2016
+323,Before These Crowded Streets,Dave Matthews Band,1998,2012
+214,The Slim Shady LP,Eminem,1999,2014
+255,Californication,Red Hot Chili Peppers,1999,2009
+320,Summerteeth,Wilco,1999,2015
+63,Kid A,Radiohead,2000,2014
+193,The Marshall Mathers LP,Eminem,2000,2014
+313,Voodoo,D'Angelo,2000,2016
+327,Outbound,Bela Fleck and the Flecktones,2000,2014
+336,The Marshall Mathers LP,Eminem,2000,2014
+236,Amnesiac,Radiohead,2001,2019
+279,Sea Change,Beck,2002,2015
+317,Yankee Hotel Foxtrot,Wilco,2002,2020
+118,Funeral,Arcade Fire,2004,2016
+177,American Idiot,Green Day,2004,2009
+345,One Quiet Night,Pat Metheny,2004,2014
+328,Everything in Transit,Jack's Mannequin,2005,2015
+240,In Rainbows,Radiohead,2007,2015
+321,"For Emma, Forever Ago",Bon Iver,2007,2015
+329,Sky Blue Sky,Wilco,2007,2021
+348,This Empty Northern Hemisphere,Gregory Alan Isokov,2009,2015
+346,Speak Now,Taylor Swift,2010,2011
+319,Away From the World,Dave Matthews Band,2012,2012
+330,Random Access Memory,Daft Punk,2013,2019
+335,Paradise Valley,John Mayer,2013,2013
+349,The Weatherman,Gregory Alan Isokov,2013,2016
+333,Hozier,Hozier,2014,2016
+344,Kin,Pat Metheny Unity Group,2014,2014
+331,Lemonade,Beyonce,2016,2017
+332,After Laughter,Paramore,2017,2018
+334,The Search For Everything,John Mayer,2017,2017
+350,Evening Machines,Gregory Alan Isokov,2018,2018
+353,Good at Falling,The Japanesew House,2019,2022
