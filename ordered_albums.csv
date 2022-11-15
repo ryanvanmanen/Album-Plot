@@ -5,12 +5,12 @@
 "4","Please Please Me","The Beatles",1963,2004
 "83","The Freewheelin' Bob Dylan","Bob Dylan",1963,2019
 "54","Meet The Beatles!","The Beatles",1964,2022
-"228","A Hard Day's Night","The Beatles",1964,2007
+"223","A Hard Day's Night","The Beatles",1964,2007
 "5","Bringing It All Back Home","Bob Dylan",1965,2020
 "28","Highway 61 Revisited","Bob Dylan",1965,2020
 "29","Rubber Soul","The Beatles",1965,2006
 "51","A Love Supreme","John Coltrane",1965,2012
-"239","Help!","The Beatles",1965,2008
+"234","Help!","The Beatles",1965,2008
 "6","Sounds of Silence","Simon & Garfunkel",1966,2016
 "26","Pet Sounds","The Beach Boys",1966,2014
 "27","Revolver","The Beatles",1966,2007
@@ -30,7 +30,7 @@
 "37","Abbey Road","The Beatles",1969,2009
 "45","Let It Bleed","The Rolling Stones",1969,2010
 "49","The Band (""The Brown Album"")","The Band",1969,2020
-"205","Crosby, Stills & Nash","Crosby, Stills & Nash",1969,2014
+"202","Crosby, Stills & Nash","Crosby, Stills & Nash",1969,2014
 "3","Led Zeppelin III","Led Zeppelin",1970,2008
 "13","Moondance","Van Morrison",1970,2011
 "14","Workingman's Dead","Grateful Dead",1970,2015
@@ -40,8 +40,8 @@
 "90","Sweet Baby James","James Taylor",1970,2015
 "175","Look-Ka Py Py","The Meters",1970,2012
 "192","Black Sabbath","Black Sabbath",1970,2010
-"204","American Beauty","Grateful Dead",1970,2014
-"354","Cold Fact","Rodriguez",1970,2022
+"201","American Beauty","Grateful Dead",1970,2014
+"345","Cold Fact","Rodriguez",1970,2022
 "16","At the Fillmore East","Allman Brothers Band",1971,2018
 "17","Blue","Joni Mitchell",1971,2016
 "18","Who's Next","The Who",1971,2009
@@ -53,15 +53,15 @@
 "31","Exile on Main St.","The Rolling Stones",1972,2010
 "46","The Rise and Fall of Ziggy Stardust and the Spiders From Mars","David Bowie",1972,2010
 "189","Can't Buy a Thrill","Steely Dan",1972,2015
-"207","Paul Simon","Paul Simon",1972,2015
-"253","Eagles","Eagles",1972,2012
+"204","Paul Simon","Paul Simon",1972,2015
+"244","Eagles","Eagles",1972,2012
 "20","Dark Side of the Moon","Pink Floyd",1973,2011
 "21","Wake of the Flood","Grateful Dead",1973,2015
 "81","Goodbye Yellow Brick Road","Elton John",1973,2009
 "115","Houses of the Holy","Led Zeppelin",1973,2008
-"206","Quadrophenia","The Who",1973,2009
-"261","Band on the Run","Paul McCartney & Wings",1973,2009
-"342","Piano Man","Billy Joel",1973,2009
+"203","Quadrophenia","The Who",1973,2009
+"252","Band on the Run","Paul McCartney & Wings",1973,2009
+"333","Piano Man","Billy Joel",1973,2009
 "22","Blood on the Tracks","Bob Dylan",1975,2016
 "23","Journey","Journey",1975,2010
 "40","Born to Run","Bruce Springsteen",1975,2010
@@ -75,74 +75,83 @@
 "43","Rumours","Fleetwood Mac",1977,2015
 "105","Saturday Night Fever: The Original Movie Sound Track","Various Artists",1977,2019
 "112","Aja","Steely Dan",1977,2014
-"343","The Stranger","Billy Joel",1977,2010
-"244","52nd Street","Billy Joel",1978,2019
-"259","Van Halen","Van Halen",1978,2009
+"334","The Stranger","Billy Joel",1977,2010
+"239","52nd Street","Billy Joel",1978,2019
+"250","Van Halen","Van Halen",1978,2009
 "32","London Calling","The Clash",1979,2008
 "64","Off the Wall","Michael Jackson",1979,2013
-"242","Rust Never Sleeps","Neil Young & Crazy Horse",1979,2018
+"237","Rust Never Sleeps","Neil Young & Crazy Horse",1979,2018
 "68","Back in Black","AC/DC",1980,2009
-"325","One Trick Pony","Paul Simon",1980,2015
-"341","Making Movies","Dire Straits",1980,2015
-"339","Business As Usual","Men At Work",1981,2021
+"316","One Trick Pony","Paul Simon",1980,2015
+"332","Making Movies","Dire Straits",1980,2015
+"330","Business As Usual","Men At Work",1981,2021
 "41","Thriller","Michael Jackson",1982,2012
-"243","Brothers in Arms","Dire Straits",1985,2021
-"340","Behind the Sun","Eric Clapton",1985,2013
+"238","Brothers in Arms","Dire Straits",1985,2021
+"331","Behind the Sun","Eric Clapton",1985,2013
 "65","Graceland","Paul Simon",1986,2015
 "24","Appetite For Destruction","Guns N' Roses",1987,2009
 "44","The Joshua Tree","U2",1987,2011
-"299","Hysteria","Def Leppard",1987,2010
+"290","Hysteria","Def Leppard",1987,2010
 "39","Nevermind","Nirvana",1991,2011
 "119","The Low End Theory","A Tribe Called Quest",1991,2012
 "164","Ten","Pearl Jam",1991,2021
-"230","Blood Sugar Sex Magik","Red Hot Chili Peppers",1991,2011
-"351","Use Your Illusion","Guns N' Roses",1991,2011
-"355","Luck of the Draw","Bonnie Raitt",1991,2022
-"347","Vs.","Pearl Jam",1993,2022
-"352","Thousand Roads","David Crosby",1993,2009
-"225","Grace","Jeff Buckley",1994,2011
-"232","MTV Unplugged in New York","Nirvana",1994,2011
-"256","Illmatic","Nas",1994,2013
-"316","Vitalogy","Pearl Jam",1994,2021
-"324","Under the Table and Dreaming","Dave Matthews Band",1994,2012
+"225","Blood Sugar Sex Magik","Red Hot Chili Peppers",1991,2011
+"342","Use Your Illusion","Guns N' Roses",1991,2011
+"346","Luck of the Draw","Bonnie Raitt",1991,2022
+"338","Vs.","Pearl Jam",1993,2022
+"343","Thousand Roads","David Crosby",1993,2009
+"220","Grace","Jeff Buckley",1994,2011
+"227","MTV Unplugged in New York","Nirvana",1994,2011
+"247","Illmatic","Nas",1994,2013
+"307","Vitalogy","Pearl Jam",1994,2021
+"315","Under the Table and Dreaming","Dave Matthews Band",1994,2012
 "97","The Bends","Radiohead",1995,2014
-"338","Bing, Bing, Bing!","Charlie Hunter Trio",1995,2012
-"322","Crash","Dave Matthews Band",1996,2012
-"326","Tales From the Hudson","Michael Brecker",1996,2014
+"329","Bing, Bing, Bing!","Charlie Hunter Trio",1995,2012
+"313","Crash","Dave Matthews Band",1996,2012
+"317","Tales From the Hudson","Michael Brecker",1996,2014
 "123","OK Computer","Radiohead",1997,2014
-"311","Life After Death","The Notorious B.I.G.",1997,2014
-"337","Whatever and Ever Amen","Ben Folds Five",1997,2014
-"233","The Miseducation of Lauryn Hill","Lauryn Hill",1998,2016
-"323","Before These Crowded Streets","Dave Matthews Band",1998,2012
-"214","The Slim Shady LP","Eminem",1999,2014
-"255","Californication","Red Hot Chili Peppers",1999,2009
-"320","Summerteeth","Wilco",1999,2015
+"302","Life After Death","The Notorious B.I.G.",1997,2014
+"328","Whatever and Ever Amen","Ben Folds Five",1997,2014
+"228","The Miseducation of Lauryn Hill","Lauryn Hill",1998,2016
+"314","Before These Crowded Streets","Dave Matthews Band",1998,2012
+"209","The Slim Shady LP","Eminem",1999,2014
+"246","Californication","Red Hot Chili Peppers",1999,2009
+"311","Summerteeth","Wilco",1999,2015
 "63","Kid A","Radiohead",2000,2014
 "193","The Marshall Mathers LP","Eminem",2000,2014
-"313","Voodoo","D'Angelo",2000,2016
-"327","Outbound","Bela Fleck and the Flecktones",2000,2014
-"336","The Marshall Mathers LP","Eminem",2000,2014
-"236","Amnesiac","Radiohead",2001,2019
-"279","Sea Change","Beck",2002,2015
-"317","Yankee Hotel Foxtrot","Wilco",2002,2020
+"304","Voodoo","D'Angelo",2000,2016
+"318","Outbound","Bela Fleck and the Flecktones",2000,2014
+"327","The Marshall Mathers LP","Eminem",2000,2014
+"231","Amnesiac","Radiohead",2001,2019
+"309","White Blood Cells","The White Stripes",2001,2014
+"348","Room For Squares","John Mayer",2001,2011
+"270","Sea Change","Beck",2002,2015
+"308","Yankee Hotel Foxtrot","Wilco",2002,2020
+"349","Heavier Things","John Mayer",2003,2011
 "118","Funeral","Arcade Fire",2004,2016
 "177","American Idiot","Green Day",2004,2009
-"345","One Quiet Night","Pat Metheny",2004,2014
-"328","Everything in Transit","Jack's Mannequin",2005,2015
-"240","In Rainbows","Radiohead",2007,2015
-"321","For Emma, Forever Ago","Bon Iver",2007,2015
-"329","Sky Blue Sky","Wilco",2007,2021
-"348","This Empty Northern Hemisphere","Gregory Alan Isokov",2009,2015
-"346","Speak Now","Taylor Swift",2010,2011
-"319","Away From the World","Dave Matthews Band",2012,2012
-"330","Random Access Memory","Daft Punk",2013,2019
-"335","Paradise Valley","John Mayer",2013,2013
-"349","The Weatherman","Gregory Alan Isokov",2013,2016
-"333","Hozier","Hozier",2014,2016
-"344","Kin","Pat Metheny Unity Group",2014,2014
-"356","Currents","Tame Impala",2015,2015
-"331","Lemonade","Beyonce",2016,2017
-"332","After Laughter","Paramore",2017,2018
-"334","The Search For Everything","John Mayer",2017,2017
-"350","Evening Machines","Gregory Alan Isokov",2018,2018
-"353","Good at Falling","The Japanesew House",2019,2022
+"336","One Quiet Night","Pat Metheny",2004,2014
+"319","Everything in Transit","Jack's Mannequin",2005,2015
+"350","Continuum","John Mayer",2005,2011
+"235","In Rainbows","Radiohead",2007,2015
+"312","For Emma, Forever Ago","Bon Iver",2007,2015
+"320","Sky Blue Sky","Wilco",2007,2021
+"339","This Empty Northern Hemisphere","Gregory Alan Isokov",2009,2015
+"351","Battle Studies","John Mayer",2009,2011
+"337","Speak Now","Taylor Swift",2010,2011
+"310","Away From the World","Dave Matthews Band",2012,2012
+"352","Born and Raised","John Mayer",2012,2012
+"321","Random Access Memory","Daft Punk",2013,2019
+"326","Paradise Valley","John Mayer",2013,2013
+"340","The Weatherman","Gregory Alan Isokov",2013,2016
+"324","Hozier","Hozier",2014,2016
+"335","Kin","Pat Metheny Unity Group",2014,2014
+"347","Currents","Tame Impala",2015,2015
+"322","Lemonade","Beyonce",2016,2017
+"355","Arms","Bell X1",2016,2022
+"323","After Laughter","Paramore",2017,2018
+"325","The Search For Everything","John Mayer",2017,2017
+"341","Evening Machines","Gregory Alan Isokov",2018,2018
+"344","Good at Falling","The Japanese House",2019,2022
+"353","Sob Rock","John Mayer",2021,2021
+"354","Midnights","Taylor Swift",2022,2022
