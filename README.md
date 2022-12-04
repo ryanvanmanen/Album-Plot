@@ -1,2 +1,2 @@
 # Album-Plot
-Album discovery versus release year
+Album discovery versus release year using Plotly
