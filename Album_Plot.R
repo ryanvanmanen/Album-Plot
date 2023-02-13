@@ -37,7 +37,7 @@ fig <- fig %>%
   add_trace(
     x = ordered_albums$Released, 
     y = ordered_albums$Discovered,
-    text = ordered_albums$Album,
+    text = ordered_albums$Album, 
     hoverinfo = 'text',
     marker = list(color='green'),
     name = "Album Name"
