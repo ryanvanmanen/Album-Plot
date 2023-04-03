@@ -31,32 +31,42 @@ xref <- 2000:2024
 yref <- 2000:2024
 #Create scatter plot with hover over points for labels
 
-fig <- plot_ly( type ='scatter', mode = 'markers' )
+fig <- plot_ly( 
+  type ='scatter', 
+  mode = 'markers',
+  )
+
 
 fig <- fig %>% 
   add_trace(
     x = ordered_albums$Released, 
     y = ordered_albums$Discovered,
-    text = ordered_albums$Album, 
+    text = paste("<b>Album:</b> ",ordered_albums$Album, ",",ordered_albums$Released,"<br></br>",
+                 "<b>Artist:</b> ", ordered_albums$Artist), 
     hoverinfo = 'text',
-    marker = list(color='green'),
-    name = "Album Name"
-  
+    marker = list(color='rgba(113, 189, 250, 1.1)'),
+    name = 'Album'
   )
+
 
 #Add Graph Title
 fig <- fig %>%
   layout(
     title = list(text="Album Discovery vs. Release Year",
-                 size = 8))
+                 size = 8),
+    xaxis = list(title = 'Release Year'), 
+    yaxis = list(title = 'Discovery Year'),
+    legend = list(title = list(text='<b>Legend</b>'))
+    )
+  
 #Add Reference Line
 fig <- fig %>%
   add_trace(
     x = xref, 
     y = yref,
     mode = "lines",
-    name = "Y=X Ref Line",
-    line=list(color='#1f77b4',dash='dashed'),
+    name = "y=x Ref Line",
+    line=list(color='#d0a12c'),
     opacity=0.50
     )
    
