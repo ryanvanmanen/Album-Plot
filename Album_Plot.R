@@ -54,8 +54,8 @@ fig <- fig %>%
   layout(
     title = list(text="Album Discovery vs. Release Year",
                  size = 8),
-    xaxis = list(title = 'Release Year'), 
-    yaxis = list(title = 'Discovery Year'),
+    xaxis = list(title = '<b>Release Year</b>'), 
+    yaxis = list(title = '<b>Discovery Year</b>'),
     legend = list(title = list(text='<b>Legend</b>'))
     )
   
