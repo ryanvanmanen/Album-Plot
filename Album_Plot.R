@@ -39,15 +39,14 @@ fig <- plot_ly(
 
 fig <- fig %>% 
   add_trace(
-    x = ordered_albums$Released, 
-    y = ordered_albums$Discovered,
+    x = ~jitter(ordered_albums$Released,0.5), 
+    y = ~jitter(ordered_albums$Discovered,0.5),
     text = paste("<b>Album:</b> ",ordered_albums$Album, ",",ordered_albums$Released,"<br></br>",
                  "<b>Artist:</b> ", ordered_albums$Artist), 
     hoverinfo = 'text',
     marker = list(color='rgba(113, 189, 250, 1.1)'),
     name = 'Album'
   )
-
 
 #Add Graph Title
 fig <- fig %>%
@@ -56,7 +55,11 @@ fig <- fig %>%
                  size = 8),
     xaxis = list(title = '<b>Release Year</b>'), 
     yaxis = list(title = '<b>Discovery Year</b>'),
-    legend = list(title = list(text='<b>Legend</b>'))
+    legend = list(title = list(text='<b>Legend</b>')),
+      xaxis = list(
+        dtick = 10, 
+        tickmode = "linear"
+      )
     )
   
 #Add Reference Line
