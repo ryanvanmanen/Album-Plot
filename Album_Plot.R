@@ -31,16 +31,23 @@ xref <- 2000:2024
 yref <- 2000:2024
 #Create scatter plot with hover over points for labels
 
+x = (ordered_albums$Released)
+y = (ordered_albums$Discovered)
+#is_duplicate <- duplicated(x) | duplicated(x, fromLast = TRUE) | duplicated(y) | duplicated(y, fromLast = TRUE)
+
+#jitter_amount <- 0.05
+#x_jittered <- ifelse(is_duplicate, x + runif(sum(is_duplicate), min = -jitter_amount, max = jitter_amount), x)
+#y_jittered <- ifelse(is_duplicate, y + runif(sum(is_duplicate), min = -jitter_amount, max = jitter_amount), y)
+
 fig <- plot_ly( 
   type ='scatter', 
   mode = 'markers',
-  )
-
+)
 
 fig <- fig %>% 
   add_trace(
-    x = ~jitter(ordered_albums$Released,0.5), 
-    y = ~jitter(ordered_albums$Discovered,0.5),
+    x = ordered_albums$Released, 
+    y = ordered_albums$Discovered,
     text = paste("<b>Album:</b> ",ordered_albums$Album, ",",ordered_albums$Released,"<br></br>",
                  "<b>Artist:</b> ", ordered_albums$Artist), 
     hoverinfo = 'text',
