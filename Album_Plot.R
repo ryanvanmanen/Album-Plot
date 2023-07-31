@@ -35,7 +35,7 @@ x = (ordered_albums$Released)
 y = (ordered_albums$Discovered)
 #is_duplicate <- duplicated(x) | duplicated(x, fromLast = TRUE) | duplicated(y) | duplicated(y, fromLast = TRUE)
 
-#jitter_amount <- 0.05
+jitter_amount <- 0.05
 #x_jittered <- ifelse(is_duplicate, x + runif(sum(is_duplicate), min = -jitter_amount, max = jitter_amount), x)
 #y_jittered <- ifelse(is_duplicate, y + runif(sum(is_duplicate), min = -jitter_amount, max = jitter_amount), y)
 
