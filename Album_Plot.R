@@ -5,7 +5,7 @@ library(plotly)
 library(ggplot2)
 
 ##Order and manipulate album list
-albums <- read.csv(file="/Users/ryanvanmanen/Documents/Github/Album-Plot/Album_Data.csv")
+albums <- read.csv(file="/Users/ryanvanmanen/Documents/Album-Plot/Album_Data.csv")
 
 #Create variable containing ordered dataframe
 ordered_albums <-albums[order(albums$Released, decreasing = FALSE), ] 
@@ -14,7 +14,7 @@ ordered_albums <-albums[order(albums$Released, decreasing = FALSE), ]
 ordered_albums <- ordered_albums[!is.na(ordered_albums$Discovered),]
 
 #Write ordered dataframe to a csv and put it in specified directory location
-write.csv(ordered_albums,file = "/Users/ryanvanmanen/Documents/Github/Album-Plot/ordered_albums.csv")
+write.csv(ordered_albums,file = "/Users/ryanvanmanen/Documents/Album-Plot/ordered_albums.csv")
 
 #View(ordered_albums)
 
@@ -46,8 +46,8 @@ fig <- plot_ly(
 
 fig <- fig %>% 
   add_trace(
-    x = ordered_albums$Released, 
-    y = ordered_albums$Discovered,
+    x = jitter(ordered_albums$Released,1), 
+    y = jitter(ordered_albums$Discovered,0.5),
     text = paste("<b>Album:</b> ",ordered_albums$Album, ",",ordered_albums$Released,"<br></br>",
                  "<b>Artist:</b> ", ordered_albums$Artist), 
     hoverinfo = 'text',
@@ -60,11 +60,11 @@ fig <- fig %>%
   layout(
     title = list(text="Album Discovery vs. Release Year",
                  size = 8),
-    xaxis = list(title = '<b>Release Year</b>'), 
-    yaxis = list(title = '<b>Discovery Year</b>'),
+    xaxis = list(title = '<b>Release Year</b>',dtick=5), 
+    yaxis = list(title = '<b>Discovery Year</b>',dtick=2),
     legend = list(title = list(text='<b>Legend</b>')),
       xaxis = list(
-        dtick = 10, 
+        dtick = 5, 
         tickmode = "linear"
       )
     )
